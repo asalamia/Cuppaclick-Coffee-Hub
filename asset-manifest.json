@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Cuppaclick-Coffee-Hub/static/css/main.15df0212.css",
+    "main.js": "/Cuppaclick-Coffee-Hub/static/js/main.f237408a.js",
+    "static/js/453.37094a9a.chunk.js": "/Cuppaclick-Coffee-Hub/static/js/453.37094a9a.chunk.js",
+    "static/media/cuppaclickLogo.jpg": "/Cuppaclick-Coffee-Hub/static/media/cuppaclickLogo.1c94ae6bb76f61a51354.jpg",
+    "index.html": "/Cuppaclick-Coffee-Hub/index.html",
+    "main.15df0212.css.map": "/Cuppaclick-Coffee-Hub/static/css/main.15df0212.css.map",
+    "main.f237408a.js.map": "/Cuppaclick-Coffee-Hub/static/js/main.f237408a.js.map",
+    "453.37094a9a.chunk.js.map": "/Cuppaclick-Coffee-Hub/static/js/453.37094a9a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15df0212.css",
+    "static/js/main.f237408a.js"
+  ]
+}
